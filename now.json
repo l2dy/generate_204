@@ -1,0 +1,7 @@
+{
+  "limits": {
+    "duration": 900000,
+    "maxConcurrentReqs": 256,
+    "timeout": 900000
+  }
+}
